@@ -1,4 +1,4 @@
-# Serverless Bedtime Storyteller
+# Serverless Kids Teacher
 
 This example shows streaming response from Amazon Bedrock with FastAPI on AWS Lambda.
 
