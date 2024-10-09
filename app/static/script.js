@@ -40,7 +40,7 @@ async function tellStory() {
 
 }
 
-document.getElementById("tell-story").addEventListener("click", tellStory);
+document.getElementById("educate").addEventListener("click", tellStory);
 document.getElementById('topic').addEventListener('keydown', function (e) {
   if (e.code === 'Enter') {
     tellStory();
