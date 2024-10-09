@@ -68,4 +68,4 @@ sam deploy --guided
 After the deployment completes, open the `FastAPIFunctionUrl` shown in the output messages. You should see a simple web page. Here is a demo. 
 
 
-![Demo](imgs/demo.gif)
+![Demo](imgs/ezgif.com-optimize.gif)
